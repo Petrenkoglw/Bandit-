@@ -1,0 +1,26 @@
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\bin\Debug\One-HandedBandit.exe.config
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\bin\Debug\One-HandedBandit.exe
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\bin\Debug\One-HandedBandit.pdb
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One-HandedBandit.csprojAssemblyReference.cache
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One_HandedBandit.Form1.resources
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One_HandedBandit.Properties.Resources.resources
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One-HandedBandit.csproj.GenerateResource.cache
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One-HandedBandit.csproj.CoreCompileInputs.cache
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One-HandedBandit.exe
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One-HandedBandit.pdb
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\bin\Debug\ru\One-HandedBandit.resources.dll
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\One_HandedBandit.Form1.ru.resources
+D:\Study\Univer\ООП(3-тя мова)\One-HandedBandit\One-HandedBandit\obj\Debug\ru\One-HandedBandit.resources.dll
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\bin\Debug\One-HandedBandit.exe.config
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\bin\Debug\One-HandedBandit.exe
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\bin\Debug\One-HandedBandit.pdb
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\bin\Debug\ru\One-HandedBandit.resources.dll
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One-HandedBandit.csprojAssemblyReference.cache
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One_HandedBandit.Form1.resources
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One_HandedBandit.Properties.Resources.resources
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One_HandedBandit.Form1.ru.resources
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One-HandedBandit.csproj.GenerateResource.cache
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One-HandedBandit.csproj.CoreCompileInputs.cache
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\ru\One-HandedBandit.resources.dll
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One-HandedBandit.exe
+C:\Users\Wolf\Desktop\lab_2\Bandit-main\obj\Debug\One-HandedBandit.pdb
